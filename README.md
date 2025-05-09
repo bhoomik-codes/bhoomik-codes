@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhoomiya-lord
+- 👋 Hi, I’m @bhoomiya-lord Aspiring developer | Building cool things with C++, Python & We
 - 👀 I’m interested in Artificial Intelligence, Machine Learnig, Data Science, Computer Science, Anime and Manga etc.
 - 🌱 I’m currently learning Python, C, Java and Web Dev
 - 💞️ I’m looking to collaborate on Python Projects, C Projects
