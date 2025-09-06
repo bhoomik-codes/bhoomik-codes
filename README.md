@@ -1,61 +1,80 @@
-<h1 align="center">Hey 👋, I'm Bhoomik</h1>
-<h3 align="center">🚀 Anime Lover | 💻 Developer | 🤖 AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Bhoomik</h1>
+<h3 align="center">🚀 Anime Lover | 🤖 AI Enthusiast | 💻 Open Source Contributor</h3>
 
 ---
 
-## 🧑‍💻 About Me
-- 🔭 I’m currently working on **Anime Hub Website**
-- 🌱 I’m learning **AI, Web Dev & Qt C++**
-- 🎯 2025 Goals: *Build awesome AI tools, contribute to open source & grow as a full-stack dev*
-- ⚡ Fun fact: *I can talk about anime for hours 🎥🍜*
+### 🔥 About Me  
+- 🌱 Currently exploring **Full Stack + AI projects**  
+- 🎯 Passionate about **building communities & cool projects**  
+- ⚡ Fun fact: *I can talk about One Piece for hours* 🏴‍☠️  
 
 ---
 
-## 🌐 Connect with me
-<p align="left">
-<a href="https://github.com/bhoomik-codes" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/bhoomik-sevta" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:2007bhoomiksevta11@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### 🎶 Animated Intro
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Anime+Lover;AI+Enthusiast;Full+Stack+Learner;Always+Learning!)](https://git.io/typing-svg)
 
 ---
 
-## ⚒️ Tech Stack
-<p>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-</p>
+### 📊 GitHub Analytics  
 
----
-
-## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bhoomik-codes&show_icons=true&theme=tokyonight" alt="B2007" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomik-codes&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhoomik-codes&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomik-codes&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bhoomik-code&theme=radical&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhoomik-codes&theme=highcontrast&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomik-codes&theme=react-dark" alt="graph" />
 </p>
 
 ---
 
-## 🚀 Projects
-- 🎮 **Snake Game (Pygame)** – Menu, highscore system & log tracking  
-- 🤖 **Spam Detector AI** – Smart AI with feedback system  
-- 🗂 **Task Manager (Qt)** – Intelligent UI + Portfolio-ready app  
-- 👨‍💼 **ERP Chatbot** – Face recognition login + AI-driven HR assistant  
-- 🌐 **Anime Hub Website** – Polls, discovery, trailers & chat community  
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
 ---
 
-<p align="center">✨ "Keep coding, keep growing!" ✨</p>
+### ✨ Cool Widgets  
+- ![Profile Views](https://komarev.com/ghpvc/?username=bhoomik-codes&color=blue&style=flat-square)  
+- ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+---
+
+### 🐍 Contribution Snake  
+![snake gif](https://github.com/bhoomik-codes/bhoomik-codes/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📌 Featured Projects  
+- 🔗 [Face Recognition Attendance System](https://github.com/bhoomik-codes/erp-face)  
+- 🔗 [Real-time Chat App](https://github.com/bhoomik-codes/chat-app)  
+- 🔗 [GUI Calculators](https://github.com/bhoomik-codes/gui-calculators)  
+
+---
+
+### 🎵 Spotify Vibes  
+[![Spotify](https://novatorem.vercel.app/api/spotify)]([https://open.spotify.com/user/31jjeohx3hmzlgtx2i2pu3lxugra?si=a554ab61d1a8415e])
+
+---
+
+<h3 align="center">⚡ Let's Connect ⚡</h3>
+<p align="center">
+  <a href="https://twitter.com/bhoomik-codes">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/bhoomik-sevta">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:2007bhoomiksevta11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
