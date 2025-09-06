@@ -10,7 +10,6 @@
 
 ---
 
-### 🎶 Animated Intro
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Anime+Lover;AI+Enthusiast;Full+Stack+Learner;Always+Learning!)](https://git.io/typing-svg)
 
 ---
@@ -43,14 +42,13 @@
 
 ---
 
-### ✨ Cool Widgets  
 - ![Profile Views](https://komarev.com/ghpvc/?username=bhoomik-codes&color=blue&style=flat-square)  
 - ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 ---
 
-### 🐍 Contribution Snake  
-![snake gif](https://github.com/bhoomik-codes/bhoomik-codes/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution  
+![snake gif](https://github.com/bhoomik-codes/bhoomik-codes/blob/output/snake.svg)
 
 ---
 
