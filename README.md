@@ -81,11 +81,6 @@
 
 ---
 
-### 🐍 Contribution  
-![snake gif](https://github.com/bhoomik-codes/bhoomik-codes/blob/output/snake.svg)
-
----
-
 ### 📌 Featured Projects  
 - 🔗 [Face Recognition Attendance System](https://github.com/bhoomik-codes/erp-face)  
 - 🔗 [Real-time Chat App](https://github.com/bhoomik-codes/chat-app)  
