@@ -1,54 +1,89 @@
-<!--
-  Profile README for @bhoomik-codes
-  Keep the first screen focused on what you build and where to find it.
--->
+<div align="center">
 
-<h1 align="center">Hey, I'm Bhoomik 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:22D3EE&height=190&section=header&text=Bhoomik%20Sevta&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20developer%20%7C%20AI%20builder%20%7C%20anime%20fan&descAlignY=58&descSize=16" width="100%" alt="Colorful wave banner introducing Bhoomik Sevta" />
 
-<p align="center">
-  <strong>Full-stack developer building thoughtful web products and practical AI tools.</strong><br />
-  I work across React, Next.js, Node.js, and Python — from real-time apps to RAG-powered experiences.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+full-stack+web+experiences;Exploring+LLMs%2C+RAG%2C+and+AI+tools;Probably+recommending+One+Piece+right+now" alt="Animated text: building full-stack web experiences, exploring LLMs and RAG, and recommending One Piece" />
+</a>
+
+<p>
+  <a href="https://bhoomik-codes.github.io/portfolio-website"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20work-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" /></a>
+  <a href="https://linkedin.com/in/bhoomik-sevta"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:2007bhoomiksevta11@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=bhoomik-codes&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile view count" />
 </p>
 
-<p align="center">
-  <a href="https://bhoomik-codes.github.io/portfolio-website">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/bhoomik-sevta">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:2007bhoomiksevta11@gmail.com">Email</a>
-</p>
+</div>
 
 ---
 
-### What I'm into
+## ✨ A little about me
 
-- Building useful full-stack products, especially where AI can make information easier to work with.
-- Exploring LLM apps, retrieval-augmented generation, and clean, responsive interfaces.
-- Outside code: anime, open source, and absolutely any conversation about *One Piece*.
+Hey, I'm **Bhoomik** — a full-stack developer who likes turning ambitious ideas into useful, polished products. I build across the web stack and have a special interest in **AI-powered experiences**, from document chat and RAG to conversational tools.
 
-### Selected work
+- 🤖 Exploring **LLMs, RAG, AI tools, and practical NLP**
+- 🧩 Working with **React, Next.js, TypeScript, Node.js, and Python**
+- 🌱 Always learning by building and contributing
+- 🍿 Anime fan and *One Piece* enthusiast — I can talk about it for hours
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| [Ragify](https://github.com/bhoomik-codes/ragify) | Document chat with semantic chunking and streamed answers. | Next.js · TypeScript · Prisma · RAG |
-| [TrustFlow Finance](https://github.com/bhoomik-codes/trustflow-finance) | An AI-assisted loan eligibility experience with underwriting logic. | React · Node.js · NLP |
-| [Campus Echo](https://github.com/bhoomik-codes/campus-echo) | Real-time chat with private rooms, presence, and admin tools. | Node.js · Socket.io · Express |
-| [Kurumi](https://github.com/bhoomik-codes/kurumi) | AI model discovery and chat, with a focused Markdown-friendly interface. | React · Next.js · AI |
+## 🚀 Things I've built
 
-### Tools I reach for
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/bhoomik-codes/ragify">📚 Ragify</a></h3>
+      <p>Chat with your documents using semantic chunking and streamed answers.</p>
+      <sub>Next.js · TypeScript · Prisma · RAG</sub>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/bhoomik-codes/trustflow-finance">💸 TrustFlow Finance</a></h3>
+      <p>An AI-assisted loan eligibility experience with natural-language input and underwriting logic.</p>
+      <sub>React · Node.js · NLP</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/bhoomik-codes/campus-echo">💬 Campus Echo</a></h3>
+      <p>Real-time chat with private rooms, live presence, and admin tools.</p>
+      <sub>Node.js · Socket.io · Express</sub>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/bhoomik-codes/kurumi">🧠 Kurumi</a></h3>
+      <p>Explore AI models and chat through a clean, Markdown-friendly interface.</p>
+      <sub>React · Next.js · AI</sub>
+    </td>
+  </tr>
+</table>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat-square&logo=next.js&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Prisma](https://img.shields.io/badge/Prisma-20232A?style=flat-square&logo=prisma&logoColor=FFFFFF)
-![Socket.io](https://img.shields.io/badge/Socket.io-20232A?style=flat-square&logo=socketdotio&logoColor=FFFFFF)
+## 🧰 My toolkit
 
----
-
-<p align="center">
-  <sub>Always learning, always building. Thanks for stopping by ✨</sub>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,express,prisma,postgres,mongodb,tailwind,git,docker&theme=dark" alt="Technologies: TypeScript, JavaScript, React, Next.js, Node.js, Python, Express, Prisma, PostgreSQL, MongoDB, Tailwind CSS, Git, and Docker" />
 </p>
+
+## 📊 GitHub at a glance
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bhoomik-codes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Bhoomik's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomik-codes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages across Bhoomik's public repositories" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=bhoomik-codes&theme=tokyonight&hide_border=true" alt="Bhoomik's GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomik-codes&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" alt="Bhoomik's GitHub contribution activity over time" />
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhoomik-codes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" alt="GitHub profile achievement trophies" />
+</div>
+
+<div align="center">
+  <h3>Thanks for stopping by! ✨</h3>
+  <p>Keep building cool things — and don't skip the One Piece filler guide without asking me first 😄</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:8B5CF6,100:6C63FF&height=100&section=footer" width="100%" alt="" />
+</div>
